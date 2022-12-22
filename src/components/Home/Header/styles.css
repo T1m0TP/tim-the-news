@@ -1,0 +1,55 @@
+.home-header {
+  text-align: center;
+}
+
+.home-header h2 {
+  color: #0080ff;
+  font-size: 2rem;
+}
+
+.home-header h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 3rem;
+  color: #274ad7;
+  margin-bottom: 1rem;
+}
+
+.home-header h1 span {
+  color: #b0c4de;
+}
+
+.home-header p {
+  font-family: 'Poppins', sans-serif;
+  color: #a9a9a9;
+  font-weight: 500;
+}
+
+.news {
+  height: 200px;
+  width: 200px;
+  margin-bottom: -7.5%;
+}
+
+@media (max-width: 960px) {
+  .home-header h1 {
+    font-size: 38px;
+  }
+
+  .news {
+    height: 140px;
+    width: 140px;
+    margin-bottom: 0 auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .home-header h1 {
+    font-size: 30px;
+  }
+
+  .news {
+    height: 140px;
+    width: 140px;
+    margin-bottom: -14.5%;
+  }
+}
