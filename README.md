@@ -6,8 +6,8 @@ I'm happy to introduce you to my new web application called "Tim, the news!" (I 
 ### `npm start`
 You can use **npm start** to launch the project or you can watch the **demo** on : https://timthenews.netlify.app
 
-# The videos
-I didn't import the videos but **it doesn't matter** because you just have to import the ones you want to use in the **videos file**.
+# The ressources
+I didn't import the images and the videos but **it doesn't matter** because you just have to import the ones you want to use in a **video** folder and in a **image** folder.
 
 
     ((((( ☻ )))))
